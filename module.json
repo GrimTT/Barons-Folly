@@ -1,0 +1,221 @@
+{
+  "id": "barons-folly-adventure",
+  "title": "Barons Folly Adventure",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "packs": [
+    {
+      "name": "Baronsfolly-adventure",
+      "label": "Install Adventures",
+      "path": "packs/Baronsfolly-adventure",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Baronsfolly-campaign-setting",
+      "label": "Barons Folly Campaign Setting",
+      "path": "packs/Baronsfolly-campaign-setting",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Baronsfolly-cs-adventure-items",
+      "label": "Adventure Items",
+      "path": "packs/Baronsfolly-cs-adventure-items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Baronsfolly-cd-items",
+      "label": "Magic Items",
+      "path": "packs/Baronsfolly-cd-items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Baronsfolly-cs-mundane",
+      "label": "Mundane Items",
+      "path": "packs/Baronsfolly-cs-mundane",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Baronsfolly-cs-races",
+      "label": "Races",
+      "path": "packs/Baronsfolly-cs-races",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "baronsfolly-cs-racial-features",
+      "label": "Racial Features",
+      "path": "packs/baronsfolly-cs-racial-features",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Baronsfolly-cs-subclasses",
+      "label": "Subclasses",
+      "path": "packs/Baronsfolly-cs-subclasses",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Baronsfolly-cs-Subclass-features",
+      "label": "Subclass Features",
+      "path": "packs/Baronsfolly-cs-Subclass-features",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "baronsfolly-cs-backgrounds",
+      "label": "Backgrounds",
+      "path": "packs/baronsfolly-cs-backgrounds",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "baronsfolly-cs-spells",
+      "label": "Spells",
+      "path": "packs/baronsfolly-cs-spells",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Baronsfolly-cs-feats",
+      "label": "Feats",
+      "path": "packs/Baronsfolly-cs-feats",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Baronsfolly-cs-beastiary",
+      "label": "Beastiary",
+      "path": "packs/Baronsfolly-cs-beastiary",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Baronsfolly-cs-npcs",
+      "label": "NPCs",
+      "path": "packs/Baronsfolly-cs-npcs",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "baronsfolly-cs-background-rt",
+      "label": "Backgrounds Roll Tables",
+      "path": "packs/baronsfolly-cs-background-rt",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "baronsfolly-cs-cncounter-rt",
+      "label": "Encounter Roll Tables",
+      "path": "packs/baronsfolly-cs-cncounter-rt",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+       "name": "Barons Folly Adventure",
+       "sorting": "m",
+       "color": "#cd2c1e",
+       "packs" [
+         "Baronsfolly-adventure"
+         "Baronsfolly-campaign-setting"
+        ]
+    }
+],     	
+  "authors": [
+    {
+      "name": "Treble's Tales",
+      "flags": {}
+    },
+    {
+      "name": "Grim",
+      "flags": {}
+    },
+    {
+      "name": "Cuddles",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
+}
